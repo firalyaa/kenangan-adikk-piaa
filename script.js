@@ -11,7 +11,7 @@ aku juga ngerasa punya adik beneran padahal di rumah aku bungsu hahaha, senang b
 
 adik jangan lupain aku yaa, dan jangan lupain kenangan kita selama di capil, semoga adik selalu sehat, semangat, dan semua yang adik mau dimudahkan.
 
-Kita main uno lagi yukk di Berikopi again! hahaha 🃏☕
+kita main uno lagi yukk di berikopi again! hahaha 🃏☕
 
 take care, adikk  🤍
 `;
