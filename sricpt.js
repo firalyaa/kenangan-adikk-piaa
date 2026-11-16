@@ -1,7 +1,7 @@
 const nama = "Adikk piaa";
 
 const pesan = `
-Aloww adikk Pia! 💗
+alloww adikk piaa! 💗
 
 timaaci yaa sudah menemani hari-hari aku di capil selama magang, aku sangat-sangat bersyukur bisa kenal adik,
 
@@ -58,12 +58,12 @@ function backToMenu() {
 function checkCode() {
     const input = document.getElementById("secretCode").value.trim();
 
-    if (input.toUpperCase() === kodeRahasia) {
-        document.getElementById("mainContent").style.display = "block";
+    if (input.toUpperCase() === kodeRahasia.toUpperCase()) {
         document.getElementById("lockScreen").style.display = "none";
+        document.getElementById("mainContent").style.display = "block";
     } else {
-        document.getElementById("errorMessage").innerText =
-            "Eitsss, kode rahasianya salah! Coba lagi yaa ♡";
+        document.getElementById("errorMessage").textContent =
+            "Eitsss, kode rahasianya salah! Coba lagi ya ♡";
 
         document.getElementById("secretCode").value = "";
     }
